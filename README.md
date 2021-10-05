@@ -5,6 +5,6 @@ Requirements:<br>
 1. cfscrape
 
 Features: <br>
-[+] Multithreaded
-[+] CSV Output
-[+] JSON output
+[+] Multithreaded <br>
+[+] CSV Output <br>
+[+] JSON output <br>
